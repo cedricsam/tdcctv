@@ -1,0 +1,1833 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<image-list>
+	<image>
+		<key>H429F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Aberdeen Praya Road near Fish Market</english-description>
+		<chinese-description>香港仔海傍道近魚市場</chinese-description>
+		<EASTING>833514</EASTING>
+		<NORTHING>812196</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H429F.JPG</URL>
+	</image>
+	<image>
+		<key>H210F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Aberdeen Tunnel - Wan Chai Side</english-description>
+		<chinese-description>香港仔隧道灣仔入口</chinese-description>
+		<EASTING>836504</EASTING>
+		<NORTHING>815117</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H210F.JPG</URL>
+	</image>
+	<image>
+		<key>H421F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Aberdeen Tunnel - Aberdeen Side</english-description>
+		<chinese-description>香港仔隧道香港仔入口</chinese-description>
+		<EASTING>836245</EASTING>
+		<NORTHING>812386</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H421F.JPG</URL>
+	</image>
+	<image>
+		<key>H422F2</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Ap Lei Chau Bridge Road near Aberdeen Police Station</english-description>
+		<chinese-description>鴨利洲橋道近香港仔警署</chinese-description>
+		<EASTING>834632</EASTING>
+		<NORTHING>812129</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H422F2.JPG</URL>
+	</image>
+	<image>
+		<key>H904F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Canal Road Flyover near Gloucester Road</english-description>
+		<chinese-description>堅拿道天橋近告士打道</chinese-description>
+		<EASTING>836731</EASTING>
+		<NORTHING>815614</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H904F.JPG</URL>
+	</image>
+	<image>
+		<key>H216F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Canal Road Flyover near Time Square</english-description>
+		<chinese-description>堅拿道天橋近時代廣場</chinese-description>
+		<EASTING>836735</EASTING>
+		<NORTHING>815604</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H216F.JPG</URL>
+	</image>
+	<image>
+		<key>H305F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Causeway Road near Hing Fat Street</english-description>
+		<chinese-description>高士威道近興發街</chinese-description>
+		<EASTING>837747</EASTING>
+		<NORTHING>815875</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H305F.JPG</URL>
+	</image>
+	<image>
+		<key>H106F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Connaught Road Central near Exchange Square</english-description>
+		<chinese-description>干諾道中近交易廣場</chinese-description>
+		<EASTING>834091</EASTING>
+		<NORTHING>816342</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H106F.JPG</URL>
+	</image>
+	<image>
+		<key>H110F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Connaught Road Central near Shun Tak Centre</english-description>
+		<chinese-description>干諾道中近信德中心</chinese-description>
+		<EASTING>833910</EASTING>
+		<NORTHING>816444</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H110F.JPG</URL>
+	</image>
+	<image>
+		<key>H138F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Cotton Tree Drive near Hong Kong Park Sports Centre</english-description>
+		<chinese-description>紅棉路近香港公園體育館</chinese-description>
+		<EASTING>834492</EASTING>
+		<NORTHING>815425</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H138F.JPG</URL>
+	</image>
+	<image>
+		<key>H207F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Cross Harbour Tunnel Hong Kong Side</english-description>
+		<chinese-description>海底隧道香港入口</chinese-description>
+		<EASTING>836788</EASTING>
+		<NORTHING>815823</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H207F.JPG</URL>
+	</image>
+	<image>
+		<key>H204F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Fleming Road near Harbour Road</english-description>
+		<chinese-description>菲林明道近港灣道</chinese-description>
+		<EASTING>836018</EASTING>
+		<NORTHING>815741</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H204F.JPG</URL>
+	</image>
+	<image>
+		<key>H222F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Gloucester Road near Sun Hung Kai Center</english-description>
+		<chinese-description>告士打道近新鴻基中心</chinese-description>
+		<EASTING>836234</EASTING>
+		<NORTHING>815649</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H222F.JPG</URL>
+	</image>
+	<image>
+		<key>H215F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Gloucester Road near Wan Chai Interchange</english-description>
+		<chinese-description>告士打道近灣仔交匯處</chinese-description>
+		<EASTING>836496</EASTING>
+		<NORTHING>815859</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H215F.JPG</URL>
+	</image>
+	<image>
+		<key>H214F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Harcourt Road near Red Cross Headquarter</english-description>
+		<chinese-description>夏愨道近紅十字會總部</chinese-description>
+		<EASTING>835411</EASTING>
+		<NORTHING>815661</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H214F.JPG</URL>
+	</image>
+	<image>
+		<key>H201F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Hennessy Road near Arsenal Street</english-description>
+		<chinese-description>軒尼詩道近軍器廠街</chinese-description>
+		<EASTING>835405</EASTING>
+		<NORTHING>815441</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H201F.JPG</URL>
+	</image>
+	<image>
+		<key>H802F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Island Eastern Corridor near Hoi Yu Street</english-description>
+		<chinese-description>東區走廊近海裕街</chinese-description>
+		<EASTING>839884</EASTING>
+		<NORTHING>816907</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H802F.JPG</URL>
+	</image>
+	<image>
+		<key>H801F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Island Eastern Corridor near Ka Wah Centre</english-description>
+		<chinese-description>東區走廊近嘉華國際中心</chinese-description>
+		<EASTING>839208</EASTING>
+		<NORTHING>817233</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H801F.JPG</URL>
+	</image>
+	<image>
+		<key>H803F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Island Eastern Corridor near Quarry Bay Park</english-description>
+		<chinese-description>東區走廊近鰂魚涌公園</chinese-description>
+		<EASTING>840830</EASTING>
+		<NORTHING>816597</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H803F.JPG</URL>
+	</image>
+	<image>
+		<key>H307F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>King's Road near Tin Chong Street</english-description>
+		<chinese-description>英皇道近電廠街</chinese-description>
+		<EASTING>838164</EASTING>
+		<NORTHING>816813</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H307F.JPG</URL>
+	</image>
+	<image>
+		<key>H903F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Morrison Hill Road near Sports Road</english-description>
+		<chinese-description>摩利臣山道近體育道</chinese-description>
+		<EASTING>836678</EASTING>
+		<NORTHING>815209</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H903F.JPG</URL>
+	</image>
+	<image>
+		<key>H107F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Pedder Street</english-description>
+		<chinese-description>畢打街</chinese-description>
+		<EASTING>834227</EASTING>
+		<NORTHING>815839</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H107F.JPG</URL>
+	</image>
+	<image>
+		<key>H130F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Pok Fu Lam Road near Pokfield Road</english-description>
+		<chinese-description>薄扶林道近蒲飛路</chinese-description>
+		<EASTING>831675</EASTING>
+		<NORTHING>815880</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H130F.JPG</URL>
+	</image>
+	<image>
+		<key>H132F2</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Pok Fu Lam Road near Smithfield Road</english-description>
+		<chinese-description>薄扶林道近士美菲路</chinese-description>
+		<EASTING>831527</EASTING>
+		<NORTHING>815414</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H132F2.JPG</URL>
+	</image>
+	<image>
+		<key>H109F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Queen's Road Central near Garden Road</english-description>
+		<chinese-description>皇后大道中近花園道</chinese-description>
+		<EASTING>834701</EASTING>
+		<NORTHING>815662</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H109F.JPG</URL>
+	</image>
+	<image>
+		<key>H108F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Queen's Road Central near Ice House Street</english-description>
+		<chinese-description>皇后大道中近雪廠街</chinese-description>
+		<EASTING>834287</EASTING>
+		<NORTHING>815722</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H108F.JPG</URL>
+	</image>
+	<image>
+		<key>H209F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Queen's Road East near Stubbs Road</english-description>
+		<chinese-description>皇后大道東近司徒拔道</chinese-description>
+		<EASTING>836422</EASTING>
+		<NORTHING>815132</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H209F.JPG</URL>
+	</image>
+	<image>
+		<key>H422F1</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Wong Chuk Hang Road near Aberdeen Technical School</english-description>
+		<chinese-description>黃竹坑道近香港仔工業學校</chinese-description>
+		<EASTING>834642</EASTING>
+		<NORTHING>812169</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H422F1.JPG</URL>
+	</image>
+	<image>
+		<key>H401F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Wong Chuk Hang Road near Aberdeen Tunnel</english-description>
+		<chinese-description>黃竹坑道近香港仔隧道</chinese-description>
+		<EASTING>835631</EASTING>
+		<NORTHING>812421</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H401F.JPG</URL>
+	</image>
+	<image>
+		<key>H203F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Yee Wo Street near Hennessy Road</english-description>
+		<chinese-description>怡和街近軒尼詩道</chinese-description>
+		<EASTING>837066</EASTING>
+		<NORTHING>815694</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H203F.JPG</URL>
+	</image>
+	<image>
+		<key>K202F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Argyle Street near Yim Po Fong Street</english-description>
+		<chinese-description>亞皆老街近染布房街</chinese-description>
+		<EASTING>835849</EASTING>
+		<NORTHING>820090</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K202F.JPG</URL>
+	</image>
+	<image>
+		<key>K209F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Boundary Street near Tai Hang Tung Road</english-description>
+		<chinese-description>界限街近大坑東道</chinese-description>
+		<EASTING>835772</EASTING>
+		<NORTHING>820842</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K209F.JPG</URL>
+	</image>
+	<image>
+		<key>K104F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Canton Road near China HK City</english-description>
+		<chinese-description>廣東道近中港城</chinese-description>
+		<EASTING>835363</EASTING>
+		<NORTHING>818037</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K104F.JPG</URL>
+	</image>
+	<image>
+		<key>K106F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Chatham Road near Austin Road</english-description>
+		<chinese-description>漆咸道近柯士甸道</chinese-description>
+		<EASTING>836309</EASTING>
+		<NORTHING>818195</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K106F.JPG</URL>
+	</image>
+	<image>
+		<key>K109F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Chatham Road near Princess Margaret Road</english-description>
+		<chinese-description>漆咸道近公主道</chinese-description>
+		<EASTING>836469</EASTING>
+		<NORTHING>818513</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K109F.JPG</URL>
+	</image>
+	<image>
+		<key>K221F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Cherry Street near Hoi Wang Road</english-description>
+		<chinese-description>櫻桃街近海泓道</chinese-description>
+		<EASTING>834894</EASTING>
+		<NORTHING>819923</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K221F.JPG</URL>
+	</image>
+	<image>
+		<key>K305F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Cheung Sha Wan Road near Kwong Cheung Street</english-description>
+		<chinese-description>長沙灣道近光昌街</chinese-description>
+		<EASTING>833695</EASTING>
+		<NORTHING>822178</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K305F.JPG</URL>
+	</image>
+	<image>
+		<key>K802F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Ching Cheung Road near Caritas Medical Center</english-description>
+		<chinese-description>呈祥道近明愛醫院</chinese-description>
+		<EASTING>834032</EASTING>
+		<NORTHING>822663</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K802F.JPG</URL>
+	</image>
+	<image>
+		<key>TK110F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Chui Ling Road near Po Shun Road</english-description>
+		<chinese-description>翠嶺路近寶順路</chinese-description>
+		<EASTING>844258</EASTING>
+		<NORTHING>818452</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TK110F.JPG</URL>
+	</image>
+	<image>
+		<key>K627F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Clear Water Bay Road near Fei Ngo Shan Road</english-description>
+		<chinese-description>清水灣道近飛鵝山道</chinese-description>
+		<EASTING>840913</EASTING>
+		<NORTHING>821603</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K627F.JPG</URL>
+	</image>
+	<image>
+		<key>K107F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Cross Harbour Tunnel Kowloon Side</english-description>
+		<chinese-description>海底隧道九龍入口</chinese-description>
+		<EASTING>836649</EASTING>
+		<NORTHING>818128</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K107F.JPG</URL>
+	</image>
+	<image>
+		<key>K108F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Jordan Road near Ferry Street</english-description>
+		<chinese-description>佐敦道近渡船街</chinese-description>
+		<EASTING>835229</EASTING>
+		<NORTHING>818538</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K108F.JPG</URL>
+	</image>
+	<image>
+		<key>K613F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kai Cheung Road near Wang Chiu Road</english-description>
+		<chinese-description>啟祥道近宏照道</chinese-description>
+		<EASTING>839556</EASTING>
+		<NORTHING>820704</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K613F.JPG</URL>
+	</image>
+	<image>
+		<key>K404F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kai Tak Tunnel Kowloon City Side</english-description>
+		<chinese-description>啟德隧道九龍城入口</chinese-description>
+		<EASTING>837362</EASTING>
+		<NORTHING>819451</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K404F.JPG</URL>
+	</image>
+	<image>
+		<key>K325F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwai Chung Road near Mei Fo Sun Chuen</english-description>
+		<chinese-description>葵涌道近美孚新邨</chinese-description>
+		<EASTING>832714</EASTING>
+		<NORTHING>822008</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K325F.JPG</URL>
+	</image>
+	<image>
+		<key>K814F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Bypass near Kai Cheung Road</english-description>
+		<chinese-description>觀塘繞道近啟祥道</chinese-description>
+		<EASTING>839090</EASTING>
+		<NORTHING>820746</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K814F.JPG</URL>
+	</image>
+	<image>
+		<key>K812F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Bypass near Laguna City</english-description>
+		<chinese-description>觀塘繞道近麗港城</chinese-description>
+		<EASTING>841692</EASTING>
+		<NORTHING>818908</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K812F.JPG</URL>
+	</image>
+	<image>
+		<key>K813F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Bypass near Lai Yip Street</english-description>
+		<chinese-description>觀塘繞道近勵業街</chinese-description>
+		<EASTING>840447</EASTING>
+		<NORTHING>819259</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K813F.JPG</URL>
+	</image>
+	<image>
+		<key>K621F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Road near Kai Yip Estate</english-description>
+		<chinese-description>觀塘道近啟業邨</chinese-description>
+		<EASTING>839759</EASTING>
+		<NORTHING>821165</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K621F.JPG</URL>
+	</image>
+	<image>
+		<key>K809F2</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Road near Kowloon Bay MTR Station</english-description>
+		<chinese-description>觀塘道近九龍灣港鐵站</chinese-description>
+		<EASTING>840179</EASTING>
+		<NORTHING>820053</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K809F2.JPG</URL>
+	</image>
+	<image>
+		<key>K810F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Kwun Tong Road near Ngua Tau Kok MTR Station</english-description>
+		<chinese-description>觀塘道近牛頭角港鐵站</chinese-description>
+		<EASTING>840705</EASTING>
+		<NORTHING>819518</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K810F.JPG</URL>
+	</image>
+	<image>
+		<key>K602F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Lei Yue Mun Road near Cha Kwo Ling Road</english-description>
+		<chinese-description>鯉魚門道近茶果嶺道</chinese-description>
+		<EASTING>841668</EASTING>
+		<NORTHING>819019</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K602F.JPG</URL>
+	</image>
+	<image>
+		<key>K804F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Lung Cheung Road near Chak On Estate</english-description>
+		<chinese-description>龍翔道近澤安邨</chinese-description>
+		<EASTING>835019</EASTING>
+		<NORTHING>822557</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K804F.JPG</URL>
+	</image>
+	<image>
+		<key>K505F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Lung Cheung Road/Chuk Yuen Road</english-description>
+		<chinese-description>龍翔道/竹園道</chinese-description>
+		<EASTING>837063</EASTING>
+		<NORTHING>822647</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K505F.JPG</URL>
+	</image>
+	<image>
+		<key>K614F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Lung Cheung Road/Clear Water Bay Road</english-description>
+		<chinese-description>龍翔道/清水灣道</chinese-description>
+		<EASTING>839525</EASTING>
+		<NORTHING>821661</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K614F.JPG</URL>
+	</image>
+	<image>
+		<key>K508F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Lung Cheung Road/Po Kong Village Road</english-description>
+		<chinese-description>龍翔道/蒲崗村道</chinese-description>
+		<EASTING>838544</EASTING>
+		<NORTHING>822490</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K508F.JPG</URL>
+	</image>
+	<image>
+		<key>K405F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Ma Tau Wai Road near Farm Road</english-description>
+		<chinese-description>馬頭圍道近農圃道</chinese-description>
+		<EASTING>837356</EASTING>
+		<NORTHING>820351</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K405F.JPG</URL>
+	</image>
+	<image>
+		<key>K205F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Nathan Road near Lai Chi Kok Road</english-description>
+		<chinese-description>彌敦道近荔枝角道</chinese-description>
+		<EASTING>835419</EASTING>
+		<NORTHING>820366</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K205F.JPG</URL>
+	</image>
+	<image>
+		<key>TK101F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Po Lam Road North near Po Hong Road</english-description>
+		<chinese-description>寶琳北路近寶康路</chinese-description>
+		<EASTING>843921</EASTING>
+		<NORTHING>820782</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TK101F.JPG</URL>
+	</image>
+	<image>
+		<key>TK105F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Po Shun Road near Tseung Kwan O Swimming Pool</english-description>
+		<chinese-description>寶順路近將軍澳游泳池</chinese-description>
+		<EASTING>845001</EASTING>
+		<NORTHING>819909</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TK105F.JPG</URL>
+	</image>
+	<image>
+		<key>K506F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Prince Edward Rd W Flyover nr Olympic Garden</english-description>
+		<chinese-description>太子道西天橋近世運公園</chinese-description>
+		<EASTING>837681</EASTING>
+		<NORTHING>820963</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K506F.JPG</URL>
+	</image>
+	<image>
+		<key>K521F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Prince Edward Road East near San Po Kong</english-description>
+		<chinese-description>太子道東近新蒲崗</chinese-description>
+		<EASTING>838251</EASTING>
+		<NORTHING>821503</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K521F.JPG</URL>
+	</image>
+	<image>
+		<key>K123F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Princess Margaret Road near King's Park</english-description>
+		<chinese-description>公主道近京士柏</chinese-description>
+		<EASTING>836378</EASTING>
+		<NORTHING>819097</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K123F.JPG</URL>
+	</image>
+	<image>
+		<key>K409F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Princess Margaret Road/Argyle Street</english-description>
+		<chinese-description>公主道/亞皆老街</chinese-description>
+		<EASTING>836389</EASTING>
+		<NORTHING>820253</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K409F.JPG</URL>
+	</image>
+	<image>
+		<key>K408F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Princess Margaret Road/Pui Ching Road</english-description>
+		<chinese-description>公主道/培正道</chinese-description>
+		<EASTING>836443</EASTING>
+		<NORTHING>819808</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K408F.JPG</URL>
+	</image>
+	<image>
+		<key>K102F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Salisbury Road near Chatham Road</english-description>
+		<chinese-description>梳士巴利道近漆咸道</chinese-description>
+		<EASTING>836113</EASTING>
+		<NORTHING>817406</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K102F.JPG</URL>
+	</image>
+	<image>
+		<key>K101F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Salisbury Road near Nathan Road</english-description>
+		<chinese-description>梳士巴利道近彌敦道</chinese-description>
+		<EASTING>835826</EASTING>
+		<NORTHING>817296</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K101F.JPG</URL>
+	</image>
+	<image>
+		<key>K607F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Sau Mau Ping Road near Hip Wo Street</english-description>
+		<chinese-description>秀茂坪道近協和街</chinese-description>
+		<EASTING>841318</EASTING>
+		<NORTHING>820555</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K607F.JPG</URL>
+	</image>
+	<image>
+		<key>K811F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Tseung Kwan O Road near Tsui Ping South Estate</english-description>
+		<chinese-description>將軍澳道近翠屏南邨</chinese-description>
+		<EASTING>842169</EASTING>
+		<NORTHING>819236</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K811F.JPG</URL>
+	</image>
+	<image>
+		<key>TK904F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Tseung Kwan O Tunnel - Tseung Kwan O Side</english-description>
+		<chinese-description>將軍澳隧道將軍澳入口</chinese-description>
+		<EASTING>844594</EASTING>
+		<NORTHING>819819</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TK904F.JPG</URL>
+	</image>
+	<image>
+		<key>K111F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Waterloo Road / Ferry Street</english-description>
+		<chinese-description>窩打老道/渡船街</chinese-description>
+		<EASTING>835240</EASTING>
+		<NORTHING>819243</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K111F.JPG</URL>
+	</image>
+	<image>
+		<key>K112F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Waterloo Road near Tung Fong Street</english-description>
+		<chinese-description>窩打老道近東方街</chinese-description>
+		<EASTING>835730</EASTING>
+		<NORTHING>819355</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K112F.JPG</URL>
+	</image>
+	<image>
+		<key>K502F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Waterloo Road/Cornwall Street</english-description>
+		<chinese-description>窩打老道/歌和老街</chinese-description>
+		<EASTING>836493</EASTING>
+		<NORTHING>822341</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K502F.JPG</URL>
+	</image>
+	<image>
+		<key>K816F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>West Kowloon Corridor near Nam Cheong Estate</english-description>
+		<chinese-description>西九龍走廊近南昌邨</chinese-description>
+		<EASTING>834718</EASTING>
+		<NORTHING>820669</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K816F.JPG</URL>
+	</image>
+	<image>
+		<key>K914F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>West Kowloon Highway near Lai Wan Interchange</english-description>
+		<chinese-description>西九龍公路近荔灣交匯處</chinese-description>
+		<EASTING>832752</EASTING>
+		<NORTHING>821317</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K914F.JPG</URL>
+	</image>
+	<image>
+		<key>K911F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>West Kowloon Hwy - Yau Ma Tei Interchange N</english-description>
+		<chinese-description>西九龍公路油麻地北交匯處</chinese-description>
+		<EASTING>834682</EASTING>
+		<NORTHING>819489</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K911F.JPG</URL>
+	</image>
+	<image>
+		<key>TW117F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Castle Peak Road near Texaco Road North</english-description>
+		<chinese-description>青山公路近德士古道北</chinese-description>
+		<EASTING>830767</EASTING>
+		<NORTHING>825671</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW117F.JPG</URL>
+	</image>
+	<image>
+		<key>TW109F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Castle Peak Road near Wo Yi Hop Road</english-description>
+		<chinese-description>青山公路近和宜合道</chinese-description>
+		<EASTING>831994</EASTING>
+		<NORTHING>825082</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW109F.JPG</URL>
+	</image>
+	<image>
+		<key>SM936F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Cheung Pei Shan Road</english-description>
+		<chinese-description>象鼻山路</chinese-description>
+		<EASTING>830725</EASTING>
+		<NORTHING>826372</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SM936F.JPG</URL>
+	</image>
+	<image>
+		<key>TC101F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Cheung Tsing Bridge</english-description>
+		<chinese-description>長青橋</chinese-description>
+		<EASTING>829537</EASTING>
+		<NORTHING>823284</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC101F.JPG</URL>
+	</image>
+	<image>
+		<key>TC302F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Cheung Tsing Highway near Kam Chuk Kok</english-description>
+		<chinese-description>長青公路近金竹角</chinese-description>
+		<EASTING>827653</EASTING>
+		<NORTHING>822851</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC302F.JPG</URL>
+	</image>
+	<image>
+		<key>TW102F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Kwai Chung Road near Container Terminal</english-description>
+		<chinese-description>葵涌道近貨櫃碼頭</chinese-description>
+		<EASTING>831769</EASTING>
+		<NORTHING>822260</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW102F.JPG</URL>
+	</image>
+	<image>
+		<key>TW108F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Kwai Chung Road near Kwai Hing MTR Station</english-description>
+		<chinese-description>葵涌道近葵興港鐵站</chinese-description>
+		<EASTING>831601</EASTING>
+		<NORTHING>824630</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW108F.JPG</URL>
+	</image>
+	<image>
+		<key>TW105F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Kwai Tsing Road near Tsing Yi Bridge</english-description>
+		<chinese-description>葵青路近青衣大橋</chinese-description>
+		<EASTING>830732</EASTING>
+		<NORTHING>824014</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW105F.JPG</URL>
+	</image>
+	<image>
+		<key>TW116F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Texaco Road Flyover near Sha Tsui Road</english-description>
+		<chinese-description>德士古道天橋近沙咀道</chinese-description>
+		<EASTING>830581</EASTING>
+		<NORTHING>825314</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW116F.JPG</URL>
+	</image>
+	<image>
+		<key>TC104F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Tsing Kwai Highway Near Container Port 4</english-description>
+		<chinese-description>青葵公路近四號貨櫃碼頭</chinese-description>
+		<EASTING>831659</EASTING>
+		<NORTHING>822161</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC104F.JPG</URL>
+	</image>
+	<image>
+		<key>TW121F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Tsing Kwai Highway/Cheung Tsing Tunnel</english-description>
+		<chinese-description>青葵公路/長青隧道</chinese-description>
+		<EASTING>829371</EASTING>
+		<NORTHING>823273</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW121F.JPG</URL>
+	</image>
+	<image>
+		<key>TW120F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Tsuen Wan Road near Tai Chung Road</english-description>
+		<chinese-description>荃灣路近大涌道</chinese-description>
+		<EASTING>829229</EASTING>
+		<NORTHING>825665</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW120F.JPG</URL>
+	</image>
+	<image>
+		<key>TW103F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Tsuen Wan Road near Tsuen Tsing Interchange</english-description>
+		<chinese-description>荃灣路近荃青交匯處</chinese-description>
+		<EASTING>830302</EASTING>
+		<NORTHING>824759</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW103F.JPG</URL>
+	</image>
+	<image>
+		<key>TW112F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Wo Yi Hop Road near Lei Shu Road</english-description>
+		<chinese-description>和宜合道近梨樹路</chinese-description>
+		<EASTING>832089</EASTING>
+		<NORTHING>825920</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW112F.JPG</URL>
+	</image>
+	<image>
+		<key>TI101F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Castle Peak Road near Hung Shui Kiu</english-description>
+		<chinese-description>青山公路近洪水橋</chinese-description>
+		<EASTING>818116</EASTING>
+		<NORTHING>832960</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TI101F.JPG</URL>
+	</image>
+	<image>
+		<key>YL111F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Castle Peak Road near Pok Oi Interchange</english-description>
+		<chinese-description>青山公路近博愛交匯處</chinese-description>
+		<EASTING>821778</EASTING>
+		<NORTHING>833921</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/YL111F.JPG</URL>
+	</image>
+	<image>
+		<key>YL106F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Castle Peak Road nearYuen Long</english-description>
+		<chinese-description>青山公路近元朗</chinese-description>
+		<EASTING>821374</EASTING>
+		<NORTHING>833889</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/YL106F.JPG</URL>
+	</image>
+	<image>
+		<key>YL101F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Long Tin Road near Long Ping Road</english-description>
+		<chinese-description>朗天路近朗屏路</chinese-description>
+		<EASTING>819768</EASTING>
+		<NORTHING>834117</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/YL101F.JPG</URL>
+	</image>
+	<image>
+		<key>TM103F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Lung Mun Road near Tuen Mun Recreation and Sports Centre</english-description>
+		<chinese-description>龍門路近屯門康樂體育中心</chinese-description>
+		<EASTING>814386</EASTING>
+		<NORTHING>827143</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TM103F.JPG</URL>
+	</image>
+	<image>
+		<key>RT115F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Lung Mun Road near Wu Chui Road</english-description>
+		<chinese-description>龍門路近湖翠路</chinese-description>
+		<EASTING>813947</EASTING>
+		<NORTHING>826346</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/RT115F.JPG</URL>
+	</image>
+	<image>
+		<key>TM118F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Pui To Road near Tuen Mun Park</english-description>
+		<chinese-description>杯渡路近屯門公園</chinese-description>
+		<EASTING>815440</EASTING>
+		<NORTHING>828325</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TM118F.JPG</URL>
+	</image>
+	<image>
+		<key>TC604F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Ting Kau Bridge</english-description>
+		<chinese-description>汀九橋</chinese-description>
+		<EASTING>826472</EASTING>
+		<NORTHING>824576</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC604F.JPG</URL>
+	</image>
+	<image>
+		<key>TR101F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Chai Wan Kok</english-description>
+		<chinese-description>屯門公路-柴灣角</chinese-description>
+		<EASTING>828660</EASTING>
+		<NORTHING>826100</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR101F.JPG</URL>
+	</image>
+	<image>
+		<key>TR111F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - near Tsing Lung Tau</english-description>
+		<chinese-description>屯門公路 -近青龍頭</chinese-description>
+		<EASTING>822340</EASTING>
+		<NORTHING>825085</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR111F.JPG</URL>
+	</image>
+	<image>
+		<key>TR704F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road near Tsing Yin Street</english-description>
+		<chinese-description>屯門公路近青賢街</chinese-description>
+		<EASTING>815631</EASTING>
+		<NORTHING>828770</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR704F.JPG</URL>
+	</image>
+	<image>
+		<key>TR119F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Sam Shing Hui</english-description>
+		<chinese-description>屯門公路-三聖墟</chinese-description>
+		<EASTING>816012</EASTING>
+		<NORTHING>827115</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR119F.JPG</URL>
+	</image>
+	<image>
+		<key>TR108F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Sham Tseng Interchange</english-description>
+		<chinese-description>屯門公路-深井交匯處</chinese-description>
+		<EASTING>824432</EASTING>
+		<NORTHING>825594</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR108F.JPG</URL>
+	</image>
+	<image>
+		<key>TR107F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Sham Tseng Section</english-description>
+		<chinese-description>屯門公路-深井段</chinese-description>
+		<EASTING>825207</EASTING>
+		<NORTHING>825163</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR107F.JPG</URL>
+	</image>
+	<image>
+		<key>TR116F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Siu Lam Section</english-description>
+		<chinese-description>屯門公路-小欖段</chinese-description>
+		<EASTING>818269</EASTING>
+		<NORTHING>825371</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR116F.JPG</URL>
+	</image>
+	<image>
+		<key>TR114F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Tai Lam Kok Section</english-description>
+		<chinese-description>屯門公路-大欖角段</chinese-description>
+		<EASTING>820023</EASTING>
+		<NORTHING>824347</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR114F.JPG</URL>
+	</image>
+	<image>
+		<key>TR105F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Ting Kau Section</english-description>
+		<chinese-description>屯門公路-汀九段</chinese-description>
+		<EASTING>826054</EASTING>
+		<NORTHING>825794</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR105F.JPG</URL>
+	</image>
+	<image>
+		<key>TR103F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road - Yau Kom Tau Section</english-description>
+		<chinese-description>屯門公路-油柑頭段</chinese-description>
+		<EASTING>827318</EASTING>
+		<NORTHING>825687</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR103F.JPG</URL>
+	</image>
+	<image>
+		<key>TC612F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road to Ting Kau Bridge</english-description>
+		<chinese-description>屯門公路至汀九橋</chinese-description>
+		<EASTING>825644</EASTING>
+		<NORTHING>825694</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC612F.JPG</URL>
+	</image>
+	<image>
+		<key>RT116F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Wong Chu Road near Tuen Mun Heung Sze Wui Road</english-description>
+		<chinese-description>皇珠路近屯門鄉事會路</chinese-description>
+		<EASTING>815482</EASTING>
+		<NORTHING>827380</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/RT116F.JPG</URL>
+	</image>
+	<image>
+		<key>TM101F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Wu Chui Road near Wu King Road</english-description>
+		<chinese-description>湖翠路近湖景路</chinese-description>
+		<EASTING>814490</EASTING>
+		<NORTHING>826040</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TM101F.JPG</URL>
+	</image>
+	<image>
+		<key>SW109F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Yuen Long Highway near Hung Tin Road</english-description>
+		<chinese-description>元朗公路近洪天路</chinese-description>
+		<EASTING>818174</EASTING>
+		<NORTHING>832088</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW109F.JPG</URL>
+	</image>
+	<image>
+		<key>SW113F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Yuen Long Highway near Pok Oi Interchange</english-description>
+		<chinese-description>元朗公路近博愛交匯處</chinese-description>
+		<EASTING>822099</EASTING>
+		<NORTHING>833779</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW113F.JPG</URL>
+	</image>
+	<image>
+		<key>SW112F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Yuen Long Highway near Shap Pat Heung</english-description>
+		<chinese-description>元朗公路近十八鄉</chinese-description>
+		<EASTING>821323</EASTING>
+		<NORTHING>832721</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW112F.JPG</URL>
+	</image>
+	<image>
+		<key>SW111F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Yuen Long Highway near Tong Yan San Tsuen Interchange</english-description>
+		<chinese-description>元朗公路近唐人新村交匯處</chinese-description>
+		<EASTING>819498</EASTING>
+		<NORTHING>833200</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW111F.JPG</URL>
+	</image>
+	<image>
+		<key>BC702F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Castle Peak Road near Mai Po</english-description>
+		<chinese-description>青山公路近米埔</chinese-description>
+		<EASTING>824086</EASTING>
+		<NORTHING>838533</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/BC702F.JPG</URL>
+	</image>
+	<image>
+		<key>FH711F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near Hong Lok Yuen</english-description>
+		<chinese-description>粉嶺公路近康樂園</chinese-description>
+		<EASTING>833539</EASTING>
+		<NORTHING>836231</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/FH711F.JPG</URL>
+	</image>
+	<image>
+		<key>TP113F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near Hong Lok Yuen Road</english-description>
+		<chinese-description>粉嶺公路近康樂園路</chinese-description>
+		<EASTING>833389</EASTING>
+		<NORTHING>835907</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TP113F.JPG</URL>
+	</image>
+	<image>
+		<key>FH104F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near Kwu Tung</english-description>
+		<chinese-description>粉嶺公路近古洞</chinese-description>
+		<EASTING>827843</EASTING>
+		<NORTHING>840492</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/FH104F.JPG</URL>
+	</image>
+	<image>
+		<key>FH107F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near Pak Wo Road</english-description>
+		<chinese-description>粉嶺公路近百和路</chinese-description>
+		<EASTING>831230</EASTING>
+		<NORTHING>839889</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/FH107F.JPG</URL>
+	</image>
+	<image>
+		<key>FH106F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near Sheung Shui Roundabout</english-description>
+		<chinese-description>粉嶺公路上水迴旋處</chinese-description>
+		<EASTING>830835</EASTING>
+		<NORTHING>840099</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/FH106F.JPG</URL>
+	</image>
+	<image>
+		<key>NH101F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Jockey Club Road near Fanling Highway</english-description>
+		<chinese-description>馬會道近粉嶺公路</chinese-description>
+		<EASTING>833134</EASTING>
+		<NORTHING>838717</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NH101F.JPG</URL>
+	</image>
+	<image>
+		<key>NH109F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Jockey Club Road near Ma Sik Road</english-description>
+		<chinese-description>馬會道近馬適路</chinese-description>
+		<EASTING>831879</EASTING>
+		<NORTHING>840089</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NH109F.JPG</URL>
+	</image>
+	<image>
+		<key>TP114F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Nam Wan Road near Kwong Fuk Road</english-description>
+		<chinese-description>南運路近廣福道</chinese-description>
+		<EASTING>835760</EASTING>
+		<NORTHING>834130</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TP114F.JPG</URL>
+	</image>
+	<image>
+		<key>BC103F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>San Sham Road Roundabout</english-description>
+		<chinese-description>新深路迴旋處</chinese-description>
+		<EASTING>826468</EASTING>
+		<NORTHING>840281</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/BC103F.JPG</URL>
+	</image>
+	<image>
+		<key>BC101F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>San Tin Highway near Fairview Park</english-description>
+		<chinese-description>新田公路近錦繡花園</chinese-description>
+		<EASTING>823791</EASTING>
+		<NORTHING>837083</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/BC101F.JPG</URL>
+	</image>
+	<image>
+		<key>BC102F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>San Tin Highway near Mai Po</english-description>
+		<chinese-description>新田公路近米埔</chinese-description>
+		<EASTING>824754</EASTING>
+		<NORTHING>839246</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/BC102F.JPG</URL>
+	</image>
+	<image>
+		<key>NH113F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>San Wan Road near Lung Sum Avenue</english-description>
+		<chinese-description>新運路近龍琛路</chinese-description>
+		<EASTING>831109</EASTING>
+		<NORTHING>840382</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NH113F.JPG</URL>
+	</image>
+	<image>
+		<key>NH115F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Sha Tau Kok Road near Ma Sik Road</english-description>
+		<chinese-description>沙頭角公路近馬適路</chinese-description>
+		<EASTING>833195</EASTING>
+		<NORTHING>840172</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NH115F.JPG</URL>
+	</image>
+	<image>
+		<key>TP105F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tai Po Tai Wo Road near Nam Wan Road</english-description>
+		<chinese-description>大埔太和路近南運路</chinese-description>
+		<EASTING>835778</EASTING>
+		<NORTHING>834638</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TP105F.JPG</URL>
+	</image>
+	<image>
+		<key>TP112F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tai Po Tai Wo Road near Tai Po Road- Tai Wo</english-description>
+		<chinese-description>大埔太和路近大埔公路-大窩</chinese-description>
+		<EASTING>834388</EASTING>
+		<NORTHING>834749</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TP112F.JPG</URL>
+	</image>
+	<image>
+		<key>TP102F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Yuen Shin Road near Ting Kok Road</english-description>
+		<chinese-description>完善路近汀角路</chinese-description>
+		<EASTING>836313</EASTING>
+		<NORTHING>835269</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TP102F.JPG</URL>
+	</image>
+	<image>
+		<key>ST115F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Fo Tan Road</english-description>
+		<chinese-description>火炭路</chinese-description>
+		<EASTING>838396</EASTING>
+		<NORTHING>827843</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST115F.JPG</URL>
+	</image>
+	<image>
+		<key>ST725F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Lion Rock Tunnel Road near Sun Tin Wai Estate</english-description>
+		<chinese-description>獅子山隧道公路近新田圍邨</chinese-description>
+		<EASTING>837409</EASTING>
+		<NORTHING>825648</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST725F.JPG</URL>
+	</image>
+	<image>
+		<key>ST731F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Ma On Shan Bypass near Heng On Estate</english-description>
+		<chinese-description>馬鞍山繞道近恆安邨</chinese-description>
+		<EASTING>841525</EASTING>
+		<NORTHING>830492</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST731F.JPG</URL>
+	</image>
+	<image>
+		<key>ST732F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Ma On Shan Bypass near Yiu On Estate</english-description>
+		<chinese-description>馬鞍山繞道近耀安邨</chinese-description>
+		<EASTING>842077</EASTING>
+		<NORTHING>830916</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST732F.JPG</URL>
+	</image>
+	<image>
+		<key>ST112F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Mei Tin Rd nr Che Kung Miu Rd Rbt</english-description>
+		<chinese-description>美田路近車公廟路迴旋處</chinese-description>
+		<EASTING>836511</EASTING>
+		<NORTHING>825814</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST112F.JPG</URL>
+	</image>
+	<image>
+		<key>ST117F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Sai Sha Road near Ma On Shan Sports Ground</english-description>
+		<chinese-description>西沙路近馬鞍山運動場</chinese-description>
+		<EASTING>841411</EASTING>
+		<NORTHING>831377</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST117F.JPG</URL>
+	</image>
+	<image>
+		<key>ST119F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Sai Sha Road/Kam Ying Road</english-description>
+		<chinese-description>西沙路/錦英路</chinese-description>
+		<EASTING>842796</EASTING>
+		<NORTHING>831981</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST119F.JPG</URL>
+	</image>
+	<image>
+		<key>ST715F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Sha Lek Highway near Prince Wales Hospital</english-description>
+		<chinese-description>沙瀝公路近威爾斯親王醫院</chinese-description>
+		<EASTING>838694</EASTING>
+		<NORTHING>826489</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST715F.JPG</URL>
+	</image>
+	<image>
+		<key>ST106F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Sha Tin Wai Road/Sha Lek Highway Slip Road</english-description>
+		<chinese-description>沙田圍路/沙瀝公路</chinese-description>
+		<EASTING>838638</EASTING>
+		<NORTHING>826524</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST106F.JPG</URL>
+	</image>
+	<image>
+		<key>ST721F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Shatin Road near Yuen Chau Kok Park</english-description>
+		<chinese-description>沙田路近圓州角公園</chinese-description>
+		<EASTING>838800</EASTING>
+		<NORTHING>827176</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST721F.JPG</URL>
+	</image>
+	<image>
+		<key>SM933F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Shing Mun Tunnel Road</english-description>
+		<chinese-description>城門隧道公路</chinese-description>
+		<EASTING>836842</EASTING>
+		<NORTHING>826509</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SM933F.JPG</URL>
+	</image>
+	<image>
+		<key>SM934F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Shing Mun Tunnel Shatin Side</english-description>
+		<chinese-description>城門隧道沙田入口</chinese-description>
+		<EASTING>835988</EASTING>
+		<NORTHING>827025</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SM934F.JPG</URL>
+	</image>
+	<image>
+		<key>ST109F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tai Chung Kiu Road near Ravana Garden</english-description>
+		<chinese-description>大涌橋路近濱景花園</chinese-description>
+		<EASTING>838987</EASTING>
+		<NORTHING>827774</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST109F.JPG</URL>
+	</image>
+	<image>
+		<key>ST114F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tai Po Road - Shatin Section</english-description>
+		<chinese-description>大埔公路沙田段</chinese-description>
+		<EASTING>837603</EASTING>
+		<NORTHING>827241</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST114F.JPG</URL>
+	</image>
+	<image>
+		<key>ST703F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tai Po Road near MTR Racecourse Station</english-description>
+		<chinese-description>大埔公路近港鐵馬場站</chinese-description>
+		<EASTING>838614</EASTING>
+		<NORTHING>828403</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST703F.JPG</URL>
+	</image>
+	<image>
+		<key>ST712F1</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tate's Cairn Highway near Shatin Hospital</english-description>
+		<chinese-description>大老山公路近沙田醫院</chinese-description>
+		<EASTING>839918</EASTING>
+		<NORTHING>828795</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST712F1.JPG</URL>
+	</image>
+	<image>
+		<key>ST714F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tate's Cairn Highway near Tai Shek Kwu</english-description>
+		<chinese-description>大老山公路近大石鼓</chinese-description>
+		<EASTING>839799</EASTING>
+		<NORTHING>827629</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST714F.JPG</URL>
+	</image>
+	<image>
+		<key>TH110F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tolo Highway near HK Science Park</english-description>
+		<chinese-description>吐露港公路近香港科學園</chinese-description>
+		<EASTING>838321</EASTING>
+		<NORTHING>833202</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TH110F.JPG</URL>
+	</image>
+	<image>
+		<key>TH114F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tolo Highway near Island House Interchange</english-description>
+		<chinese-description>吐露港公路近元洲仔交匯處</chinese-description>
+		<EASTING>836347</EASTING>
+		<NORTHING>833929</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TH114F.JPG</URL>
+	</image>
+	<image>
+		<key>TH101F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tolo Highway near Ma Liu Shui Interchange</english-description>
+		<chinese-description>吐露港公路近馬料水交匯處</chinese-description>
+		<EASTING>839945</EASTING>
+		<NORTHING>830234</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TH101F.JPG</URL>
+	</image>
+	<image>
+		<key>TH703F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tolo Highway near Ma Wo</english-description>
+		<chinese-description>吐露港公路近馬窩</chinese-description>
+		<EASTING>834456</EASTING>
+		<NORTHING>833474</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TH703F.JPG</URL>
+	</image>
+	<image>
+		<key>TH701F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tolo Highway near Mui Shue Hang</english-description>
+		<chinese-description>吐露港公路近梅樹坑</chinese-description>
+		<EASTING>833463</EASTING>
+		<NORTHING>835209</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TH701F.JPG</URL>
+	</image>
+	<image>
+		<key>ST701F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tolo Highway near Sha Tin Sewage Treatment Works</english-description>
+		<chinese-description>吐露港公路近沙田污水處理廠</chinese-description>
+		<EASTING>839792</EASTING>
+		<NORTHING>829761</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST701F.JPG</URL>
+	</image>
+	<image>
+		<key>TC551F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>Kap Shui Mun Bridge</english-description>
+		<chinese-description>汲水門橋</chinese-description>
+		<EASTING>823943</EASTING>
+		<NORTHING>822910</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC551F.JPG</URL>
+	</image>
+	<image>
+		<key>TC573F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>Lantau Link near Toll Plaza</english-description>
+		<chinese-description>青嶼幹線近收費廣場</chinese-description>
+		<EASTING>822059</EASTING>
+		<NORTHING>822037</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC573F.JPG</URL>
+	</image>
+	<image>
+		<key>NL126F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>North Lantau Highway near Pak Mong</english-description>
+		<chinese-description>北大嶼山公路近白芒</chinese-description>
+		<EASTING>814547</EASTING>
+		<NORTHING>817700</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NL126F.JPG</URL>
+	</image>
+	<image>
+		<key>NL124F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>North Lantau Highway near Siu Ho Wan</english-description>
+		<chinese-description>北大嶼山公路近小蠔灣</chinese-description>
+		<EASTING>817064</EASTING>
+		<NORTHING>819024</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NL124F.JPG</URL>
+	</image>
+	<image>
+		<key>NL121F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>North Lantau Highway near Sunny Bay</english-description>
+		<chinese-description>北大嶼山公路近欣澳</chinese-description>
+		<EASTING>820157</EASTING>
+		<NORTHING>820671</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NL121F.JPG</URL>
+	</image>
+	<image>
+		<key>NL128F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>North Lantau Highway near Tung Chung</english-description>
+		<chinese-description>北大嶼山公路近東涌</chinese-description>
+		<EASTING>812644</EASTING>
+		<NORTHING>816693</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/NL128F.JPG</URL>
+	</image>
+	<image>
+		<key>PB106F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>Penny's Bay Highway</english-description>
+		<chinese-description>竹篙灣公路</chinese-description>
+		<EASTING>821732</EASTING>
+		<NORTHING>820713</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/PB106F.JPG</URL>
+	</image>
+	<image>
+		<key>TC560F</key>
+		<english-region>Lantau</english-region>
+		<chinese-region>大嶼山</chinese-region>
+		<english-description>Tsing Ma Bridge</english-description>
+		<chinese-description>青馬大橋</chinese-description>
+		<EASTING>825678</EASTING>
+		<NORTHING>823558</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TC560F.JPG</URL>
+	</image>
+	<image>
+		<key>FH706F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Fanling Highway near MTR Fanling Station</english-description>
+		<chinese-description>粉嶺公路近港鐵粉嶺站</chinese-description>
+		<EASTING>832332</EASTING>
+		<NORTHING>839116</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/FH706F.JPG</URL>
+	</image>
+	<image>
+		<key>ST922F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Lion Rock Tunnel Road near Hung Mui Kuk Road</english-description>
+		<chinese-description>獅子山隧道公路近紅梅谷路</chinese-description>
+		<EASTING>836822</EASTING>
+		<NORTHING>825080</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST922F.JPG</URL>
+	</image>
+	<image>
+		<key>SW103F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Kong Sham Western Highway near Ha Tsuen</english-description>
+		<chinese-description>港深西部公路近廈村</chinese-description>
+		<EASTING>815904</EASTING>
+		<NORTHING>834270</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW103F.JPG</URL>
+	</image>
+	<image>
+		<key>SW108F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Yuen Long Highway near Tan Kwai Tsuen</english-description>
+		<chinese-description>元朗公路近丹桂村</chinese-description>
+		<EASTING>817765</EASTING>
+		<NORTHING>831681</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/SW108F.JPG</URL>
+	</image>
+	<image>
+		<key>TL102F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tai Lam Tunnel - Yuen Long Side</english-description>
+		<chinese-description>大欖隧道元朗入口</chinese-description>
+		<EASTING>824294</EASTING>
+		<NORTHING>830115</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TL102F.JPG</URL>
+	</image>
+	<image>
+		<key>TL103F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tai Lam Tunnel - Ting Kau Side</english-description>
+		<chinese-description>大欖隧道汀九入口</chinese-description>
+		<EASTING>824945</EASTING>
+		<NORTHING>826252</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TL103F.JPG</URL>
+	</image>
+	<image>
+		<key>TS102F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Nam Wan Tunnel- Stonecutters Bridge side</english-description>
+		<chinese-description>南灣隧道昂船洲大橋入口</chinese-description>
+		<EASTING>829034</EASTING>
+		<NORTHING>821746</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TS102F.JPG</URL>
+	</image>
+	<image>
+		<key>TS104F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Tsing Sha Highway near Lai Chi Kok</english-description>
+		<chinese-description>青沙公路近荔枝角</chinese-description>
+		<EASTING>832853</EASTING>
+		<NORTHING>822590</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TS104F.JPG</URL>
+	</image>
+	<image>
+		<key>TS105F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Sha Tin Heights Tunnel - Sha Tin Side</english-description>
+		<chinese-description>沙田嶺隧道沙田入口</chinese-description>
+		<EASTING>835713</EASTING>
+		<NORTHING>825380</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TS105F.JPG</URL>
+	</image>
+	<image>
+		<key>TW701F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Cheung Pei Shan Road near Mei Wan Street</english-description>
+		<chinese-description>象鼻山路近美環街</chinese-description>
+		<EASTING>829853</EASTING>
+		<NORTHING>826388</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TW701F.JPG</URL>
+	</image>
+	<image>
+		<key>H702F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Western Harbour Crossing Hong Kong Side</english-description>
+		<chinese-description>西區海底隧道香港入口</chinese-description>
+		<EASTING>832714</EASTING>
+		<NORTHING>816825</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H702F.JPG</URL>
+	</image>
+	<image>
+		<key>H703F</key>
+		<english-region>Hong Kong Island</english-region>
+		<chinese-region>香港島</chinese-region>
+		<english-description>Connaught Road West</english-description>
+		<chinese-description>干諾道西</chinese-description>
+		<EASTING>832744</EASTING>
+		<NORTHING>816646</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/H703F.JPG</URL>
+	</image>
+	<image>
+		<key>K901F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Western Harbour Crossing Kowloon Side</english-description>
+		<chinese-description>西區海底隧道九龍入口</chinese-description>
+		<EASTING>834653</EASTING>
+		<NORTHING>818737</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K901F.JPG</URL>
+	</image>
+	<image>
+		<key>K931F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Tate's Cairn Tunnel Kowloon Side</english-description>
+		<chinese-description>大老山隧道九龍入口</chinese-description>
+		<EASTING>839329</EASTING>
+		<NORTHING>821626</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K931F.JPG</URL>
+	</image>
+	<image>
+		<key>K952F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Eastern Harbour Crossing Kowloon Side</english-description>
+		<chinese-description>東區海底隧道九龍入口</chinese-description>
+		<EASTING>842151</EASTING>
+		<NORTHING>818052</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K952F.JPG</URL>
+	</image>
+	<image>
+		<key>ST942F</key>
+		<english-region>Shatin &amp; Ma On Shan</english-region>
+		<chinese-region>沙田及馬鞍山</chinese-region>
+		<english-description>Tate's Cairn Tunnel Shatin Side</english-description>
+		<chinese-description>大老山隧道沙田入口</chinese-description>
+		<EASTING>839615</EASTING>
+		<NORTHING>826984</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/ST942F.JPG</URL>
+	</image>
+	<image>
+		<key>K121F</key>
+		<english-region>Kowloon</english-region>
+		<chinese-region>九龍</chinese-region>
+		<english-description>Canton Road near Salisbury Road</english-description>
+		<chinese-description>廣東道近梳士巴利道</chinese-description>
+		<EASTING>835484</EASTING>
+		<NORTHING>817483</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/K121F.JPG</URL>
+	</image>
+	<image>
+		<key>TL101F</key>
+		<english-region>Tai Po, North &amp; Yuen Long</english-region>
+		<chinese-region>大埔，北區及元朗</chinese-region>
+		<english-description>Tsing Long Highway near Ko Po San Tsuen</english-description>
+		<chinese-description>青朗公路近高埔新村</chinese-description>
+		<EASTING>823839</EASTING>
+		<NORTHING>833278</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TL101F.JPG</URL>
+	</image>
+	<image>
+		<key>TR706F</key>
+		<english-region>Tuen Mun &amp; Tin Shui Wai</english-region>
+		<chinese-region>屯門及天水圍</chinese-region>
+		<english-description>Tuen Mun Road near MTR Siu Hong Station</english-description>
+		<chinese-description>屯門公路近港鐵兆康站</chinese-description>
+		<EASTING>815928</EASTING>
+		<NORTHING>830242</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TR706F.JPG</URL>
+	</image>
+	<image>
+		<key>TS101F</key>
+		<english-region>Tsuen Wan</english-region>
+		<chinese-region>荃灣</chinese-region>
+		<english-description>Nam Wan Tunnel - Sai Tso Wan Side</english-description>
+		<chinese-description>南灣隧道西草灣入口</chinese-description>
+		<EASTING>827717</EASTING>
+		<NORTHING>822693</NORTHING>
+		<URL>http://tdcctv.data.one.gov.hk/TS101F.JPG</URL>
+	</image>
+</image-list>
