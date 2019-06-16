@@ -21,6 +21,7 @@ f=${c}.${t}.${d}
 
 find img -name ${c}_\* -type f -mmin -${t} | sort > ${DIR}/${f}.txt
 mkdir -p ${DIR}/${f}
+
 n=0
 while read i
 do
