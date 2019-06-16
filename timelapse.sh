@@ -18,7 +18,7 @@ then
 fi
 f=${c}.${t}.${d}
 
-find img -name ${c}_\* -type f -cmin -${t} | sort > timelapses/${f}.txt
+find img -name ${c}_\* -type f -mmin -${t} | sort > timelapses/${f}.txt
 mkdir -p timelapses/${f}
 n=0
 while read i
