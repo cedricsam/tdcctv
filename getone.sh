@@ -15,8 +15,9 @@ cd ${DLDIR}
 FI="${1}.JPG"
 wget -q "${URLBASE}${FI}" -O "${FI}"
 
-D=`stat --printf=%Y ${FI} | cut -d. -f1`
-DD=`date -d@${D} +%Y%m%d-%H%M%S`
+D=$(stat --printf=%Y ${FI} 2> /dev/null) || D=$(stat -f "%Sm" -t %s ${FI})
+D=`echo $D | cut -d. -f1`
+DD=$(date -d@${D} +%Y%m%d-%H%M%S 2> /dev/null) || DD=$(date -jf %s ${D} +%Y%m%d-%H%M)
 
 cd - > /dev/null
 
