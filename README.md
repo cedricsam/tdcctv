@@ -55,6 +55,8 @@ e.g. `timelapse.retro.sh H203F 20190616-1200 360` creates a timelapse for the la
 
 * Data One Hong Kong portal page: [https://data.gov.hk/en-data/dataset/hk-td-tis_2-traffic-snapshot-images](https://data.gov.hk/en-data/dataset/hk-td-tis_2-traffic-snapshot-images)
 
+* Previous GitHub project version of this: [https://github.com/cedricsam/scmpdata/tree/master/webcams/tdcctv](https://github.com/cedricsam/scmpdata/tree/master/webcams/tdcctv)
+
 ## Caveats
 
 * The timestamps are local to your machine. Hong Kong is in the UTC+0800 tz all year long.
