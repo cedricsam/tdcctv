@@ -1,6 +1,6 @@
 #!/bin/bash
 
-BRANDING="bloomberg_100x18.png"
+#BRANDING="bloomberg_100x18.png"
 DIR="timelapses"
 
 # Usage: timelapse.retro.sh [webcam code] [date of end] [nb of minutes]
