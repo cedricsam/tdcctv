@@ -1,7 +1,7 @@
 #!/bin/bash
 
 d=`date +%Y%m%d-%H%M`
-BRANDING="/var/bigdata/tdcctv/bloomberg_100x18.png"
+#BRANDING="/var/bigdata/tdcctv/bloomberg_100x18.png"
 DIR="timelapses"
 
 # Usage: timelapse.sh [webcam code] [nb of minutes]
