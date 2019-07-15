@@ -37,6 +37,8 @@ fi
 #rm ${ARCHIVEDIR}/${FA}
 aws glacier upload-archive --account-id - --vault-name tdcctv --body ${FA} > archive/glacier_${1}.log
 
+s3cmd put ${FA} s3://tdcctv/ > archive/s3_${1}.log
+
 if [ -a ${FL} ]
 then
     rm ${FL}
